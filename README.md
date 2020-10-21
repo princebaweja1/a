@@ -5,5 +5,3 @@ AAA
 bbbb
 
 jai ho
-
-lol
